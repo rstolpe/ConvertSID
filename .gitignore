@@ -27,7 +27,7 @@
 ehthumbs.db
 Thumbs.db
 RSModuleBuilder.ps1
-DeleteUserBrowserSetting.psd1.source
+ConvertSID.psd1.source
 
 *.csproj.user
 
